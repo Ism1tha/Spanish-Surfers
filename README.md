@@ -42,3 +42,6 @@ All steps done:
 
 
 OS Compatible: Windows / Linux.
+-----------------------------------------------------------------------------------
+
+If it's not loading the plugins and u are using windows, just install metamod for windows replacing the files and should work.
