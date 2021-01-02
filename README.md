@@ -9,7 +9,13 @@ Easy Surf Server install repository.
 
 4- Enjoy your Surfing Server!
 
-All credits goes to: https://github.com/surftimer/Surftimer-Official
+
+Credits:
+
+
+SurfTimer: https://github.com/surftimer/Surftimer-Official
+
+Respective plugins developers.
 
 -------------------------------------------------------------------------------
 
