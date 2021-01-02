@@ -1,5 +1,10 @@
 # Spanish-Surfers
-Official Spanish Surfers CS GO Server respository.
+Easy Surf Server install repository.
+
+1- Install your CS GO server with STEAMCMD.
+2- Drag the files from this repository to your server directory.
+3- Configure the database and the FastDL.
+4- Enjoy your Surfing Server!
 
 All credits goes to: https://github.com/surftimer/Surftimer-Official
 
