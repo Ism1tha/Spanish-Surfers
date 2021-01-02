@@ -24,13 +24,13 @@ All steps done:
 
 -SMJansson
 
--SteamWorks (Windows or Linux)
+-SteamWorks (Windows AND Linux)
 
--Sourcemod-Discord API (Pre-compiled or Self-compile)
+-Sourcemod-Discord API (Pre-compiled)
 
 -Surftimer plugin latest stable release (Pre-compiled)
 
--Stripper (Windows or Linux) (The recommended filters are included in the surftimer-Official package)
+-Stripper (Windows AND Linux)
 
 -Movement unlocker (Plugin and Config) (This is required to allow pre-strafing)
 
