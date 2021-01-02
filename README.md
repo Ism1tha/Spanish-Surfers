@@ -21,7 +21,7 @@ The below is required to successfully setup your CS:GO surf server.
 
 -Sourcemod-Discord API (Pre-compiled or Self-compile)
 
--Surftimer plugin latest stable release (Pre-compiled or Self-compile)
+-Surftimer plugin latest stable release (Pre-compiled)
 
 -Stripper (Windows or Linux) (The recommended filters are included in the surftimer-Official package)
 
