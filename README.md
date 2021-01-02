@@ -15,7 +15,6 @@ All credits goes to: https://github.com/surftimer/Surftimer-Official
 
 All steps done:
 
-The below is required to successfully setup your CS:GO surf server.
 
 -SourceMod 1.10
 
