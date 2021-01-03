@@ -9,7 +9,13 @@ Easy Surf Server install repository.
 
 4- Enjoy your Surfing Server!
 
-All credits goes to: https://github.com/surftimer/Surftimer-Official
+
+Credits:
+
+
+SurfTimer: https://github.com/surftimer/Surftimer-Official
+
+Respective plugins developers.
 
 -------------------------------------------------------------------------------
 
@@ -42,3 +48,6 @@ All steps done:
 
 
 OS Compatible: Windows / Linux.
+-----------------------------------------------------------------------------------
+
+If it's not loading the plugins and u are using windows, just install metamod for windows replacing the files and should work.
